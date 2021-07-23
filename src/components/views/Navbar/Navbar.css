@@ -1,0 +1,14 @@
+li {
+    list-style-type: none;
+    display: inline-flex;
+    margin-right: 15px;
+}
+.logo {
+    width: 80px;
+    height: 50px;
+}
+a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: RGB(82, 180, 234);
+}
